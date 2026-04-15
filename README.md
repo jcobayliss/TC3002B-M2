@@ -1,2 +1,2 @@
 # TC3002B-M2
-Repositorio para códigos y datasets del módulo 2 de la materia TC3002B del Tecnológico de Monterrey.
+Repository for codes and datasets of module 2 of the subject TC3002B of the Tecnológico de Monterrey.
